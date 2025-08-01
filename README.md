@@ -70,4 +70,4 @@ You can contribute translation [here](https://lsposed.crowdin.com/lsposed).
 
 LSPosed is licensed under the **GNU General Public License v3 (GPL-3)** (http://www.gnu.org/copyleft/gpl.html).
 ubbd fhfh sgsvvs fhfbdb
-wqnmd wqnmd wqnmd
+wqnmd wqnmd wqnmd wqnmd
